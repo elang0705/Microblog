@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+.hy_microblog_fb{
+	width:100%;
+	heigth:30px;
+	float:right;
+	background-color:#fafafa;
+	border-top: 1px solid #e1e1e1;	
+}
+.hy_microblog_fb_button{
+	float:right;
+	margin:5px 20px 5px auto;
+	/**
+	bottom:2px;
+	position:absolute;
+	right:0;
+	z-index:999;
+	*/
+}
+/**
+.edui-toolbar .edui-btn-toolbar {
+	background-color:#fafafa;
+	border-bottom:1px solid #e1e1e1;
+	box-shadow:2px 2px 5px #d3d6da;
+    padding: 5px;
+    position: relative;
+    top:200px;
+    width:auto;
+    z-index:1;
+}
+*/
